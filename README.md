@@ -1,4 +1,8 @@
+<div align="center">
+
 # Final Project Title
+
+</div>
 
 <p align="center">
   <img src="path/to/image.png" alt="Project Image" width="400"/>
@@ -6,11 +10,13 @@
 
 ---
 
-## Team Name
-Your Team Name Here
+<div align="center">
+  
+### ECE MAE 148 Final Project
 
-## Course Name
-Course Code – Course Title
+### Team 2 - Summer 2025
+
+</div>
 
 <p align="center">
   <img src="path/to/image.png" alt="Course Image" width="300"/>
@@ -34,16 +40,15 @@ Course Code – Course Title
 ---
 
 ## Team Members
-- Member 1  
-- Member 2  
-- Member 3  
-- Member 4  
+- Cecilia Lee -
+- Yusuf Maung -
+- Orlando Villagrana -
+- Dylan Williams - Computer Engineering
 
 ---
 
 ## Abstract
-Write your project abstract here.  
-A concise overview of your problem, methods, and results.
+The goal of our project is to program a helper robot that is capable of following and leading a person to or from a destination depending on the situation. The robot should recognize a person and follow them around while reading for hand signals that correspond to different actions.
 
 ---
 
