@@ -36,13 +36,7 @@
 7. [Robot Design](#robot-design)
 8. [Electrical Diagram](#electrical-diagram)
 9. [Software Diagram](#software-diagram)
-10. [Course Deliverables](#course-deliverables)
-    - [DonkeyCar Laps](#donkeycar-laps)
-    - [GPS Laps](#gps-laps)
-    - [ROS2 Laps](#ros2-laps)
-    - [Final Presentation Slideshow](#final-presentation-slideshow)
-12. [References](#references)
-13. [Acknowledgements](#acknowledgements)
+10. [Acknowledgements](#acknowledgements)
 
 ---
 
@@ -51,6 +45,10 @@
 - Yusuf Maung - Electrical Engineering - <ymaung@ucsd.edu>
 - Orlando Villagrana - Aerospace Engineering - <ovillagrana@ucsd.edu>
 - Dylan Williams - Computer Engineering - <dywilliams@ucsd.edu>
+
+<p align="center">
+  <img src="path/to/image.png" alt="Team 2 Image" width="300"/>
+</p>
 
 ---
 
@@ -112,24 +110,9 @@ The goal of our project is to program a helper robot that is capable of followin
 
 ## Software Diagram
 
----
-
-## Course Deliverables
-
-### DonkeyCar Laps 
-
-### GPS Laps
-
-### ROS2 Laps
-
-### Final Presentation Slideshow
-
----
-
-## References
-- Reference 1  
-- Reference 2  
-- Reference 3
+<p align="center">
+  <img src="path/to/software_diagram.png" alt="Software Diagram" width="500"/>
+</p>
 
 ---
 
