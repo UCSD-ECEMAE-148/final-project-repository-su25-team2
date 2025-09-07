@@ -1,11 +1,11 @@
 <div align="center">
 
-# Final Project Title
+# Autonomous Service Robocar
 
 </div>
 
 <p align="center">
-  <img src="path/to/image.png" alt="Project Image" width="400"/>
+  <img src="path/to/image.png" alt="UCSD JSOE Image" width="400"/>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <img src="path/to/image.png" alt="Course Image" width="300"/>
+  <img src="path/to/image.png" alt="Robocar Image" width="300"/>
 </p>
 
 ---
@@ -35,15 +35,22 @@
 6. [Challenges](#challenges)
 7. [Robot Design](#robot-design)
 8. [Electrical Diagram](#electrical-diagram)
-9. [References](#references)
+9. [Software Diagram](#software-diagram)
+10. [Course Deliverables](#course-deliverables)
+    - [DonkeyCar Laps](#donkeycar-laps)
+    - [GPS Laps](#gps-laps)
+    - [ROS2 Laps](#ros2-laps)
+    - [Final Presentation Slideshow](#final-presentation-slideshow)
+12. [References](#references)
+13. [Acknowledgements](#acknowledgements)
 
 ---
 
 ## Team Members
-- Cecilia Lee -
-- Yusuf Maung -
-- Orlando Villagrana -
-- Dylan Williams - Computer Engineering
+- Cecilia Lee - Mechanical Engineering: Controls and Robotics - <cdl006@ucsd.edu>
+- Yusuf Maung - Electrical Engineering - <ymaung@ucsd.edu>
+- Orlando Villagrana - Aerospace Engineering - <ovillagrana@ucsd.edu>
+- Dylan Williams - Computer Engineering - <dywilliams@ucsd.edu>
 
 ---
 
@@ -103,7 +110,29 @@ The goal of our project is to program a helper robot that is capable of followin
 
 ---
 
+## Software Diagram
+
+---
+
+## Course Deliverables
+
+### DonkeyCar Laps 
+
+### GPS Laps
+
+### ROS2 Laps
+
+### Final Presentation Slideshow
+
+---
+
 ## References
 - Reference 1  
 - Reference 2  
-- Reference 3  
+- Reference 3
+
+---
+
+## Acknowledgements
+
+---
