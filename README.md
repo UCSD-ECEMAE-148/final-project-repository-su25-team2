@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="path/to/image.png" alt="UCSD JSOE Image" width="400"/>
+  <img src="images/UCSDLogo_JSOE_BlueGold_0_0.png" alt="UCSD JSOE Image" width="600"/>
 </p>
 
 ---
@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <img src="path/to/image.png" alt="Robocar Image" width="300"/>
+  <img src="images/robocar_image.HEIC" alt="Robocar Image" width="300"/>
 </p>
 
 ---
