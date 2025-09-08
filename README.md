@@ -19,7 +19,7 @@
 </div>
 
 <p align="center">
-  <img src="images/robocar_image.HEIC" alt="Robocar Image" width="300"/>
+  <img src="images/robocar_image.jpg" alt="Robocar Image" width="800"/>
 </p>
 
 ---
@@ -47,26 +47,29 @@
 - Dylan Williams - Computer Engineering - <dywilliams@ucsd.edu>
 
 <p align="center">
-  <img src="path/to/image.png" alt="Team 2 Image" width="300"/>
+  <img src="images/team2_image.jpg" alt="Team 2 Image" width="500"/>
 </p>
+
+<div align="center"> Left to right: Cecilia, Orlando, Yusuf, Dylan </div>
 
 ---
 
 ## Abstract
-The goal of our project is to program a helper robot that is capable of following and leading a person to or from a destination depending on the situation. The robot should recognize a person and follow them around while reading for hand signals that correspond to different actions.
+The goal of our project is to program a helper robot that is capable of following and leading a person to or from a destination depending on the situation. The robot should recognize a person and follow them around while looking out for hand signals that correspond to different actions. These actions include movements such as starting, stopping, and turning that allow the robot to follow or lead a person. The motivation behind this project steams from real-world issues. For example, caregivers of dementia patients can improve the safety of their loved ones by making sure that they can always make their way back home with the assistance of our Service Robocar. 
+
 
 ---
 
 ## What We Promised
 
 ### Must Have
-- Feature 1  
-- Feature 2  
-- Feature 3  
+- 
+-   
+- 
 
 ### Nice to Have
-- Extra feature 1  
-- Extra feature 2  
+-   
+-   
 
 ---
 
@@ -78,10 +81,18 @@ The goal of our project is to program a helper robot that is capable of followin
 ---
 
 ## Demonstration
-*Videos will be added here later.*  
 
-- [Demo Video 1](#)  
-- [Demo Video 2](#)  
+<p align="center">
+  <a href="videos/follow_openhand.mp4"> Open Hand Sign </a>
+</p>
+
+<p align="center">
+  <a href="videos/sit_closedhand.mp4"> Closed Hand Sign </a>
+</p>
+
+<p align="center">
+  <a href="videos/trick_vsign.mp4"> V-Sign </a>
+</p>
 
 ---
 
