@@ -63,20 +63,23 @@ The goal of our project is to program a helper robot that is capable of followin
 ## What We Promised
 
 ### Must Have
-- 
--   
-- 
+- When the intended person starts walking, the robot can start following one meter behind them as they walk
+- The robot can detect different gestures that the person makes
+- The robot can perform an action based on the gesture that was detected
 
 ### Nice to Have
--   
--   
+-   The robot can stop following and start leading the person when the correct gesture is detected
+-   While leading, the robot can reach a set home destination
 
 ---
 
 ## Accomplishments
-- Accomplishment 1  
-- Accomplishment 2  
-- Accomplishment 3  
+- Trained hand signals Roboflow models and succesfully loaded them to the OAKD Lite camera, allowing detection of three different gestures
+  - Closed-fist hand signal causes the robot to stop following
+  - Open-hand signal causes the robot to start following
+  - A V-sign (peace sign) signal causes the robot to rotate 180 degrees
+- Created a package with ROS2 that uses a LIDAR to gauge distance and allow the robot to follow a person from around one meter away
+  - Robot will stop as intended when too close or too far from person   
 
 ---
 
@@ -97,9 +100,12 @@ The goal of our project is to program a helper robot that is capable of followin
 ---
 
 ## Challenges
-- Challenge 1  
-- Challenge 2  
-- Challenge 3  
+- Inconsistencies with gesture detection
+  - Sometimes the wrong signal was interpreted
+  - Sometimes the robot would take a while to detect a signal 
+- Inconsistencies with tracking and following
+  - Sometimes the robot would "see" another closer object and begin to follow that instead
+- We were unable to successfully implement a working "leading" feature as intended 
 
 ---
 
@@ -128,5 +134,7 @@ The goal of our project is to program a helper robot that is capable of followin
 ---
 
 ## Acknowledgements
+
+Thank you to Professor Jack and to Tutors Alex and Jose for making this course as smooth, engaging, and valuable as possible!
 
 ---
