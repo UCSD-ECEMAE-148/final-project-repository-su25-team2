@@ -112,23 +112,20 @@ The goal of our project is to program a helper robot that is capable of followin
 ## Robot Design
 
 <p align="center">
-  <img src="path/to/robot_design.png" alt="Robot Design" width="500"/>
+  <img src="images/OAKD_camera_mount_image.png" alt="Camera Mount" width="300"/>
 </p>
 
----
-
-## Electrical Diagram
+The majority of our electronics sit on the bed of the RoboCar chassis beneath a wooden mount plate that we laser cut. Above the plate rests more electronics like our GPS board, NVIDIA Jetson Nano, and our LIDAR and OAKD Lite camera screwed onto our 3D-printed mount (image above). The case for our Jetson Nano can be found below.
 
 <p align="center">
-  <img src="path/to/electrical_diagram.png" alt="Electrical Diagram" width="500"/>
+  <a href="https://www.thingiverse.com/thing:3518410"> Jetson Nano Case </a>
 </p>
-
 ---
 
 ## Software Diagram
 
 <p align="center">
-  <img src="path/to/software_diagram.png" alt="Software Diagram" width="500"/>
+  <img src="images/ecemae148-finalproject-softwarediagram.png" alt="Software Diagram" width="700"/>
 </p>
 
 ---
