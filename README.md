@@ -34,9 +34,8 @@
 5. [Demonstration](#demonstration)
 6. [Challenges](#challenges)
 7. [Robot Design](#robot-design)
-8. [Electrical Diagram](#electrical-diagram)
-9. [Software Diagram](#software-diagram)
-10. [Acknowledgements](#acknowledgements)
+8. [Software Diagram](#software-diagram)
+9. [Acknowledgements](#acknowledgements)
 
 ---
 
