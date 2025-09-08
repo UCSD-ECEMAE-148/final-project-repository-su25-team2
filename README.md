@@ -120,6 +120,7 @@ The majority of our electronics sit on the bed of the RoboCar chassis beneath a 
 <p align="center">
   <a href="https://www.thingiverse.com/thing:3518410"> Jetson Nano Case </a>
 </p>
+
 ---
 
 ## Software Diagram
@@ -132,6 +133,6 @@ The majority of our electronics sit on the bed of the RoboCar chassis beneath a 
 
 ## Acknowledgements
 
-Thank you to Professor Jack and to Tutors Alex and Jose for making this course as smooth, engaging, and valuable as possible!
+Thank you to Professor Jack and to course tutors Alex and Jose for making this course as smooth, engaging, and valuable as possible!
 
 ---
